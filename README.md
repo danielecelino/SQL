@@ -1,0 +1,1 @@
+-- This directory includes .sql exercises # SQL
